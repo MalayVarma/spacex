@@ -1,3 +1,12 @@
+# This Project is deployed on Heroku:
+url : https://react--spacex.herokuapp.com/
+
+# Skill used
+React.js, Redux, Thunk, JavaScript, axios.
+
+# LightHouse Score
+Please find lighthouse-score.png in the project directory.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

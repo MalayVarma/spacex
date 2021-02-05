@@ -1,0 +1,46 @@
+.item {
+    background-color: #fff;
+    margin: 0 5px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    padding: 15px;
+    max-height: 500px;
+    max-width: 300px;
+    min-width: 100px;
+}
+
+.item__image {
+    background-color: rgb(228, 222, 222);
+    object-fit: contain;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.item img {
+    width: 100%;
+}
+
+.items p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.items p span{
+    color: blue;
+    font-weight: lighter;
+}
+
+.items .item__name {
+    color: blue;
+    font-weight: bold;
+}
+
+.item__mission_id {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.item__mission_id li{
+    font-weight: lighter;
+    color: blue;
+}

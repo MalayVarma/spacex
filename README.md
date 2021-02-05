@@ -13,7 +13,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: `npm install`
+In the project directory, you can run:
+
+### `npm install`
+
+This will create a node_modules folder in project directory which will contains all the dependencies of the project
 
 ### `npm start`
 
